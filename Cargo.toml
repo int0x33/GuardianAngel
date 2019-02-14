@@ -1,0 +1,7 @@
+[package]
+name = "guardian-angel"
+version = "0.0.1"
+authors = ["m@corporation9.com"]
+
+[dependencies]
+reqwest = "*"
